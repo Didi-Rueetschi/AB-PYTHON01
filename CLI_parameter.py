@@ -11,7 +11,7 @@ else:
         elif "e" in sys.argv[w]:
             print("G'day")
         else:
-            print("Gute Tag")
+            print("Guten Tag")
 
 #use the Terminal
 #input: python CLI_parameter.py -e
